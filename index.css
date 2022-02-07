@@ -1,0 +1,25 @@
+.main {
+  display: grid;
+  grid-template-columns: 300px auto;
+  width: 70%;
+  margin: auto;
+  margin-top: 350px;
+}
+
+.img_links {
+  width: 100px;
+}
+
+body {
+  background-color: rgb(250, 216, 189);
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(120, 147, 221);
+}
+
+.links {
+  margin-top: 10px;
+}
