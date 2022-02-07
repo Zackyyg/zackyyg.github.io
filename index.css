@@ -7,12 +7,13 @@
 }
 
 .img_links {
-  width: 100px;
+  width: 200px;
 }
 
 body {
   background-color: rgb(250, 216, 189);
   font-family: "Source Sans Pro", sans-serif;
+  font-size: 22px;
 }
 
 a {
